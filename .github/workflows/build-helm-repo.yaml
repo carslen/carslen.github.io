@@ -1,3 +1,24 @@
+
+###############################################################################
+# Copyright (c) 2021,2022 Carsten Lenz, Mercedes-Benz Tech Innovation GmbH
+# Copyright (c) 2021,2022 Contributors to the Eclipse Foundation
+#
+# See the NOTICE file(s) distributed with this work for additional
+# information regarding copyright ownership.
+#
+# This program and the accompanying materials are made available under the
+# terms of the Apache License, Version 2.0 which is available at
+# https://www.apache.org/licenses/LICENSE-2.0.
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+# License for the specific language governing permissions and limitations
+# under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+###############################################################################
+
 name: Build/Update Helm Repository Index
 
 on:
@@ -26,4 +47,15 @@ jobs:
         run: ./.github/scripts/buildHelmRepoIndex.sh ${{ inputs.github_repo }} dev
         shell: sh
 
-# todo: git add, commit, push content of /static/charts/
+      - name: Commit files
+        run: |
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add changes" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+

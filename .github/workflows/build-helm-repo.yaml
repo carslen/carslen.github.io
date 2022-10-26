@@ -1,0 +1,29 @@
+name: Build/Update Helm Repository Index
+
+on:
+  workflow_dispatch:
+    inputs:
+      github_repo:
+        required: true
+        description: 'Remote repository triggering this action'
+
+jobs:
+  build_helm_repo_index:
+    if: startsWith(inputs.github_repo, github.repository_owner)
+    name: Build Helm Repository Index
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Helm
+        uses: azure/setup-helm@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build/Update Helm Chart Repo
+        run: ./.github/scripts/buildHelmRepoIndex.sh ${{ inputs.github_repo }} dev
+        shell: sh
+
+# todo: git add, commit, push content of /static/charts/

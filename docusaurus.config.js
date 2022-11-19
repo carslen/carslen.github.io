@@ -77,7 +77,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/carslen',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,12 +121,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/carslen',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2019 - ${new Date().getFullYear()} carslen, built with love and Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

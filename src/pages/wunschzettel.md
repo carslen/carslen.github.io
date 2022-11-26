@@ -12,6 +12,7 @@ Liste sortiert nach Priorität:
 - 
 - Crippled Black Phoenix - [Banefyre](https://www.jpc.de/jpcng/poprock/detail/-/art/crippled-black-phoenix-banefyre/hnum/10974626)
 - Madrugada - [Industrial Silence](https://www.jpc.de/jpcng/poprock/detail/-/art/madrugada-italien-industrial-silence/hnum/11039037)
+- Samara Joy - [Linger Awhile](https://www.jpc.de/jpcng/jazz/detail/-/art/samara-joy-linger-awhile/hnum/11017393)
 - Snap! - [The Madman's Return](https://www.jpc.de/jpcng/poprock/detail/-/art/snap-the-madman-s-return/hnum/11041827)
 - Villagers Of Ioannina City - [Age Of Aquarius](https://www.jpc.de/jpcng/poprock/detail/-/art/villagers-of-ioannina-city-age-of-aquarius/hnum/9680097)
 - Pink Floyd: [Animals (2018 Remix) (180g)](https://www.jpc.de/jpcng/poprock/detail/-/art/pink-floyd-animals/hnum/10988613)

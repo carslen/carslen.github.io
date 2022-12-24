@@ -4,15 +4,7 @@
 
 ### Schallplatten
 
-Liste sortiert nach Priorität:
-
-- Ella and Louis - [Ella & Louis (Acoustic Sounds) (180g) (mono)](https://www.jpc.de/jpcng/jazz/detail/-/art/louis-armstrong-ella-fitzgerald-ella-louis/hnum/10950615)
-- Ella and Louis - [Ella & Louis Again (Acoustic Sounds)](https://www.jpc.de/jpcng/jazz/detail/-/art/bill-evans-piano-at-town-hall-vol-1/hnum/11012130)
-- 
-- 
-- Crippled Black Phoenix - [Banefyre](https://www.jpc.de/jpcng/poprock/detail/-/art/crippled-black-phoenix-banefyre/hnum/10974626)
 - Madrugada - [Industrial Silence](https://www.jpc.de/jpcng/poprock/detail/-/art/madrugada-italien-industrial-silence/hnum/11039037)
-- Samara Joy - [Linger Awhile](https://www.jpc.de/jpcng/jazz/detail/-/art/samara-joy-linger-awhile/hnum/11017393)
 - Snap! - [The Madman's Return](https://www.jpc.de/jpcng/poprock/detail/-/art/snap-the-madman-s-return/hnum/11041827)
 - Villagers Of Ioannina City - [Age Of Aquarius](https://www.jpc.de/jpcng/poprock/detail/-/art/villagers-of-ioannina-city-age-of-aquarius/hnum/9680097)
 - Pink Floyd: [Animals (2018 Remix) (180g)](https://www.jpc.de/jpcng/poprock/detail/-/art/pink-floyd-animals/hnum/10988613)
@@ -25,7 +17,6 @@ Liste sortiert nach Priorität:
 ## HHV
 
 - Matthew Halsall & The Gondwana Orchestra - [Into Forever](https://www.hhv.de/shop/de/artikel/matthew-halsall-und-the-gondwana-orchestra-into-forever-894841)
-- LP [Innenhüllen](https://www.hhv.de/shop/de/artikel/katta-12-vinyl-lp-innenhullen-katta-sleeves-50-micron-square-838521)
 
 ## Sonstiges
 

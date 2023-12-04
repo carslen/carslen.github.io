@@ -43,8 +43,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Carsten Lenz',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -69,15 +69,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {
-            type: 'doc',
-            position: 'left',
-            docId: 'charts',
-            label: 'Charts',
-          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/carslen',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },

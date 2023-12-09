@@ -14,4 +14,4 @@
 
 - Fahrradschuhe weiß, Gr. 43 - [SHIMANO SH-XC300](https://www.rosebikes.de/shimano-sh-xc300-mtb-schuhe-2692222?product_shape=13103&article_size=43) 
 - Satteltasche klein - [Vaude](https://www.rosebikes.de/vaude-race-light-xxl-satteltasche-2694125?article_size=5922&product_shape=58)
-- Arschrakete - []()
+- Arschrakete - [Ortlieb](https://www.rosebikes.de/ortlieb-bike-packing-seat-pack-m-satteltasche-2663548?product_shape=black+matt&article_size=11+l&eqrecqid=15083880-96a3-11ee-9dc3-00005e828630)

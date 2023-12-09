@@ -13,3 +13,5 @@
 ## Fahrrad Zeugs
 
 - Fahrradschuhe weiß, Gr. 43 - [SHIMANO SH-XC300](https://www.rosebikes.de/shimano-sh-xc300-mtb-schuhe-2692222?product_shape=13103&article_size=43) 
+- Satteltasche klein - [Vaude](https://www.rosebikes.de/vaude-race-light-xxl-satteltasche-2694125?article_size=5922&product_shape=58)
+- Arschrakete - []()

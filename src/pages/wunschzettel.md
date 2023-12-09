@@ -13,5 +13,7 @@
 ## Fahrrad Zeugs
 
 - Fahrradschuhe weiß, Gr. 43 - [SHIMANO SH-XC300](https://www.rosebikes.de/shimano-sh-xc300-mtb-schuhe-2692222?product_shape=13103&article_size=43) 
-- Satteltasche klein - [Vaude](https://www.rosebikes.de/vaude-race-light-xxl-satteltasche-2694125?article_size=5922&product_shape=58)
+- Satteltasche klein - [Ortlieb](https://www.rosebikes.de/ortlieb-micro-two-05-satteltasche-2675893?product_shape=black+matt&article_size=0%2C5+l&eqrecqid=581d9cd0-96a5-11ee-9dc3-00005e828630)
 - Arschrakete - [Ortlieb](https://www.rosebikes.de/ortlieb-bike-packing-seat-pack-m-satteltasche-2663548?product_shape=black+matt&article_size=11+l&eqrecqid=15083880-96a3-11ee-9dc3-00005e828630)
+- Miniwerkzeug - [Topeak](https://www.rosebikes.de/topeak-hummer-2-miniwerkzeug-395893?article_size=6075&product_shape=1)
+- Minipumpe - [Arik DF Minipumpe](https://www.rosebikes.de/rose-airik-df-minipumpe-co2-kartuschen-kompatibel-2678559?article_size=6075&product_shape=42)

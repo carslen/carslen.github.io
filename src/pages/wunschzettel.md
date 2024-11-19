@@ -16,3 +16,8 @@
 - Wera [Schraubendreherset klein](https://www.amazon.de/gp/product/B0CX1V1NLV/ref=ox_sc_saved_image_2?smid=A3JWKAKR8XB7XF&th=1)
 oder
 - Wera [Schraubendreherset groß](https://www.amazon.de/Wera-05006617001-Kraftform-05134000001-Schraubendrehersatz/dp/B0D3CTGGL5?th=1)
+
+## Fahrrad
+
+- Trinkflasche inkl. Halterung [Fidlock Twist 590 transparent clear](https://www.bike-discount.de/de/fidlock-twist-bottle-590-bike-base)
+- Trinkflasche inkl. Halterung [Fidlock Twist 800 transparent white](https://www.bike-discount.de/de/fidlock-twist-bottle-800-bike-base)
